@@ -1,0 +1,20 @@
+[
+  {
+    "code": "142",
+    "title": "Bussiness Study",
+    "credit": "3",
+    "pre_code": "741"
+  },
+  {
+    "code": "333",
+    "title": "Java",
+    "credit": "3",
+    "pre_code": "142"
+  },
+  {
+    "code": "142",
+    "title": "C++",
+    "credit": "3",
+    "pre_code": "empty"
+  }
+]
